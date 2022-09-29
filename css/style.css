@@ -1,0 +1,107 @@
+body{
+  font-family: "Montserrat";
+}
+.big-heading{
+  font-family: "Montserrat-black";
+  font-weight: bold;
+  text-align: center;
+  font-size: 5.5rem;
+  margin: 20% 0 auto 0;
+}
+.title-section-h2{
+  text-align:center;
+
+  }
+.titleSection{
+  padding-left: 1%;
+  color:#fff;
+}
+.titlePara{
+  padding: 2%;
+  line-height: 2;
+  margin-left: 20px;
+}
+
+/* navigation  */
+.navbar-brand{
+  color:#fff;
+}
+.nav-item{
+  color:#fff;
+}
+
+.title-section{
+  background-color: #231955;
+  padding-top:12px;
+}
+.hotel-Image{
+  width:100%;
+  border-radius: 100%;
+  padding:2%;
+}
+
+
+/* explore section */
+.exploreSpacing{
+    padding: 3% 7%;
+}
+.exploreh2{
+  text-align: center;
+  padding-top: 3%;
+}
+.explorePara{
+  text-align: left;
+  padding: 15% 7%;
+}
+
+.exploreHotelImage1{
+  width:100%;
+}
+.exploreHotelImage2{
+  width:100%;
+  position:relative;
+  right: 180px;
+}
+.relexdiv{
+  padding:5% 7%;
+}
+.relexdivpara{
+  position: relative;
+  right:100px;
+  top: 150px;
+  text-align:left;
+  padding: 5% 3%;
+  background-color: #fff;
+}
+.releximage{
+  width:120%;
+}
+.wifiimage{
+  width:100%;
+}
+.wifdivpara{
+  position: relative;
+  right:100px;
+  top: 150px;
+  text-align:left;
+  padding: 5% 3%;
+  background-color: #fff;
+}
+/* offers section  */
+#offers{
+  background-color: #231955;
+  margin-top: 5%;
+  color:#fff;
+  padding: 5%;
+}
+h1,h6{
+  text-align: center;
+}
+.icons{
+  margin-top:4%;
+  text-align: center;
+}
+
+.icon{
+  margin-left: 2%;
+}
